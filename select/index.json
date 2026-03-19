@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "新宝島",
   "base_artist": "サカナクション",
-  "createdAt": "2026-03-18T23:38:13.987498Z",
+  "createdAt": "2026-03-19T07:05:26.837845Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,7 +115,7 @@
       "artist": "サカナクション",
       "has_synced": true,
       "path": "select/localdb_01_新宝島_サカナクション.lrc",
-      "repo_name": "mJ0hH5O96kE"
+      "repo_name": "LIlZCmETvsY"
     },
     {
       "id": "localdb_2",
@@ -124,7 +124,7 @@
       "artist": "サカナクション",
       "has_synced": true,
       "path": "select/localdb_02_新宝島_サカナクション.lrc",
-      "repo_name": "LIlZCmETvsY"
+      "repo_name": "mJ0hH5O96kE"
     },
     {
       "id": "localdb_3",
